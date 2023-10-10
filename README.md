@@ -68,7 +68,3 @@ const CONFIG = new Config({
 ```
 
 Alternatively, click on the weather widget to swap between Celius and Fahrenheit.
-
-<p align="left">
-  <img src="https://i.imgur.com/aUnoJLA.png">
-</div>
