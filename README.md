@@ -33,13 +33,11 @@ const CONFIG = new Config({
 )
 ```
 
-All the available icons can be found on [tabler-icons](https://tabler-icons.io).
 
 ### Clock
 
-Change the clock format in the status bar using [strftime.org](https://strftime.org) format.
 
-Config example (`userconfig.js`):
+
 
 ```js
 const CONFIG = new Config({
@@ -55,7 +53,7 @@ const CONFIG = new Config({
 
 ### Weather temperature
 
-Change your location and temperature scale (celius, fahrenheit) like such:
+
 
 ```js
 const CONFIG = new Config({
@@ -67,4 +65,3 @@ const CONFIG = new Config({
 });
 ```
 
-Alternatively, click on the weather widget to swap between Celius and Fahrenheit.
